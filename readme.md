@@ -1,17 +1,17 @@
-# Introduction
+## Introduction
 
 To aim is to reproduce the behaviour of a traditional [Leslie] cabinet but
 in a smaller space and using less power.
 
-# Parts required
+## Parts required
 
 TODO
 
-# Circuit diagram
+## Circuit diagram
 
 TODO
 
-# Videos
+## Videos
 
 [Motor Test 1][vid1]
 
