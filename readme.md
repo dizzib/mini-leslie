@@ -1,11 +1,12 @@
 ## Introduction
 
-To aim is to reproduce the behaviour of a traditional [Leslie] cabinet but
-in a smaller space and using less power.
+To aim is to reproduce the behaviour of a traditional [Leslie] cabinet but in a smaller space.
 
-## Parts required
+## Core parts
 
-TODO
+* Arduino Nano (or similar)
+* L298N motor driver board
+* 24v/120w scooter motor
 
 ## Circuit diagram
 
