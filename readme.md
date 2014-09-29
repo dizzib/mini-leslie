@@ -1,6 +1,6 @@
 ## Introduction
 
-To aim is to reproduce the behaviour of a traditional [Leslie] cabinet but in a smaller space.
+To aim is to reproduce the behaviour of a traditional [Leslie cabinet][Leslie] but in a smaller space.
 
 ## Core parts
 
@@ -14,7 +14,9 @@ TODO
 
 ## Videos
 
-[Motor Test 1][vid1]
+[Arduino + Motor Test](https://www.youtube.com/watch?v=1-SFwXpB4cE)
+
+[Hammond Demo](https://www.youtube.com/watch?v=sb72E83Was0)
+
 
 [Leslie]: https://en.wikipedia.org/wiki/Leslie_speaker
-[vid1]: https://www.youtube.com/watch?v=1-SFwXpB4cE
