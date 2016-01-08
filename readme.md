@@ -10,7 +10,7 @@ To aim is to reproduce the behaviour of a traditional [Leslie cabinet][Leslie] b
 
 ## Circuit diagram
 
-TODO
+[v1 schematic](./v1/controller_schem.png)
 
 ## Videos
 
