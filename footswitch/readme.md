@@ -10,3 +10,9 @@
 
 This is a hastily thrown together component designed for gentle use in my home studio.
 I'm sure you could do much better :)
+
+## Pics
+
+![exterior](./fsw2.png)
+
+![internals](./fsw1.png)
