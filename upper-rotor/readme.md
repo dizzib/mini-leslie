@@ -1,5 +1,7 @@
 # Upper rotor and speaker
 
+TODO
+
 ## Parts
 
 * metal 7-inch record box 20cm x 20cm x 20cm
