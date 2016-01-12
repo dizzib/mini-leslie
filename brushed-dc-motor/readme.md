@@ -7,7 +7,7 @@
 * 24v/120w scooter DC motor (not recommended -- see [issue #1](https://github.com/dizzib/mini-leslie/issues/1))
 * small breadboard
 * jumper wires
-* 1Kohm resistor x 2
+* 1kOhm resistor x 2
 * 3.5mm jack
 
 ## Circuit diagram
