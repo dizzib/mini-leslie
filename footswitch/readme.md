@@ -7,7 +7,7 @@ I'm sure you could do much better :)
 
 * small box 11cm x 5cm x 2.5cm
 * latching on/off push buttons x 2
-* 3.5mm jack
+* 6.35mm jack
 
 ## Pics
 

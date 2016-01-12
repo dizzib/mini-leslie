@@ -8,7 +8,7 @@
 * small breadboard
 * jumper wires
 * 1kOhm resistor x 2
-* 3.5mm jack
+* 6.35mm jack
 
 ## Circuit diagram
 

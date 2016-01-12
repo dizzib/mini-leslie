@@ -9,7 +9,7 @@ and halving the original inductor values (3.2mH, 5.2mH).
 ## Parts
 
 * small box 17cm x 9cm x 5.5cm
-* 3.5mm jack x 3 (1 in, 2 outs)
+* 6.35mm jack x 3 (1 in, 2 outs)
 * 15.6uF capacitor
 * 25uF capacitor
 * 1.6mH inductor

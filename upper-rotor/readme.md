@@ -16,5 +16,5 @@ TODO
 * speaker
 * toggle switch for power
 * DC power socket
-* 3.5mm jack for speaker
-* 3.5mm jack for footswitch
+* 6.35mm jack for speaker
+* 6.35mm jack for footswitch
