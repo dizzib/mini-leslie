@@ -4,7 +4,7 @@
 
 * Arduino Nano (or similar)
 * L298N motor driver board
-* 24v/120w scooter DC motor (not recommended -- see [issue #1](./issues/1))
+* 24v/120w scooter DC motor (not recommended -- see [issue #1](https://github.com/dizzib/mini-leslie/issues/1))
 * small breadboard
 * jumper wires
 * 1Kohm resistor x 2
