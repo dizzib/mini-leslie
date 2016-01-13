@@ -17,7 +17,7 @@ and halving the original inductor values (3.2mH, 5.2mH).
 
 ## Circuit diagram
 
-TODO
+![schematic](./crossover_schem.png)
 
 ## Modifications
 
