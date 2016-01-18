@@ -22,6 +22,14 @@ I've discovered 13.5v works best but YMMV.
 This setup draws less than 20 watts at high speed, so I'd think both the motor
 and power supply could be downsized to reduce noise and vibration.
 
+## Pictures
+
+![1](./readme/pic1.png)
+![2](./readme/pic2.png)
+![3](./readme/pic3.png)
+![4](./readme/pic4.png)
+![5](./readme/pic5.png)
+
 ## Videos
 
 [Arduino + Motor Test](https://www.youtube.com/watch?v=1-SFwXpB4cE)
